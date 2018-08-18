@@ -1,0 +1,24 @@
+{
+  "name": "wordguesscli",
+  "version": "1.0.0",
+  "description": "optional homework assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ursusg/wordguesscli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ursusg/wordguesscli/issues"
+  },
+  "homepage": "https://github.com/ursusg/wordguesscli#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "prompt": "^1.0.0"
+  }
+}
